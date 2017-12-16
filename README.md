@@ -37,7 +37,7 @@ PyTorch models, which are contained in the `models` directory.
 **ImageNet**.  Our implementation of AdaBatch for the ImageNet dataset
 is contained in:
 
-    `adabatch_imagenet.py`
+    adabatch_imagenet.py
 
 and is based on the PyTorch [ImageNet example code][].
 
